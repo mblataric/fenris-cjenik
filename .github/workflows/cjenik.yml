@@ -1,0 +1,65 @@
+name: Dnevni cjenik
+
+on:
+  schedule:
+    # UTC; tri pokusaja prije 8:00 po hrvatskom vremenu (ljeti 05:10/06:00/06:45, zimi sat ranije).
+    # Skripta objavljuje samo jednom dnevno, ostala pokretanja samo provjere.
+    - cron: "10 3 * * *"
+    - cron: "0 4 * * *"
+    - cron: "45 4 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Objavi novu verziju i ako je danas već objavljena"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: cjenik
+  cancel-in-progress: false
+
+jobs:
+  cjenik:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generiraj cjenik
+        run: python generate.py ${{ inputs.force && '--force' || '' }}
+
+      - name: Spremi u repozitorij (arhiva)
+        run: |
+          git config user.name "cjenik-bot"
+          git config user.email "cjenik-bot@users.noreply.github.com"
+          git add -A public
+          if git diff --cached --quiet; then
+            echo "Nema promjena."
+          else
+            git commit -m "Cjenik $(TZ=Europe/Zagreb date '+%d.%m.%Y. %H:%M')"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Provjera sidrenih cijena
+        run: python generate.py --check --source <(curl -fsS "$(python -c 'import json;print(json.load(open("config.json"))["izvor"])')") > /dev/null
+        shell: bash

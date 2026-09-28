@@ -1,0 +1,14 @@
+{
+  "izvor": "https://fenris-hunting.hr/collections/all?view=cjenik",
+  "trgovac": "Fenris Hunting, obrt za usluge i trgovinu, vl. Ivan Bastalec, Zagrebačka ulica 55, 10340 Vrbovec, OIB 31461715885",
+  "web": "https://fenris-hunting.hr",
+  "domena_cjenika": "cjenik.fenris-hunting.hr",
+  "vremenska_zona": "Europe/Zagreb",
+  "zadrzi_dana": 35,
+  "datum_sidrenja": "2026-09-10",
+  "objekti": [
+    {"oblik": "webshop", "adresa": "Zagrebacka ulica 55 Vrbovec", "oznaka": "W01", "naziv": "Internetska trgovina fenris-hunting.hr"},
+    {"oblik": "prodavaonica", "adresa": "Zagrebacka ulica 55 Vrbovec", "oznaka": "P01", "naziv": "Prodavaonica Zagrebačka ulica 55, Vrbovec"},
+    {"oblik": "prodavaonica", "adresa": "Celine 91 Vrbovec", "oznaka": "P02", "naziv": "Prodavaonica Celine 91, Vrbovec"}
+  ]
+}
