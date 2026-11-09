@@ -1,20 +1,20 @@
 {
   "webshop-W01": {
-    "broj_pohrane": 42,
-    "datum": "2026-11-08",
-    "zadnja_objava": "08.11.2026. 11:11",
-    "datoteka": "webshop_Zagrebacka ulica 55 Vrbovec_W01_042_08.11.2026_11-11.csv"
+    "broj_pohrane": 43,
+    "datum": "2026-11-09",
+    "zadnja_objava": "09.11.2026. 12:23",
+    "datoteka": "webshop_Zagrebacka ulica 55 Vrbovec_W01_043_09.11.2026_12-23.csv"
   },
   "prodavaonica-P01": {
-    "broj_pohrane": 42,
-    "datum": "2026-11-08",
-    "zadnja_objava": "08.11.2026. 11:11",
-    "datoteka": "prodavaonica_Zagrebacka ulica 55 Vrbovec_P01_042_08.11.2026_11-11.csv"
+    "broj_pohrane": 43,
+    "datum": "2026-11-09",
+    "zadnja_objava": "09.11.2026. 12:23",
+    "datoteka": "prodavaonica_Zagrebacka ulica 55 Vrbovec_P01_043_09.11.2026_12-23.csv"
   },
   "prodavaonica-P02": {
-    "broj_pohrane": 42,
-    "datum": "2026-11-08",
-    "zadnja_objava": "08.11.2026. 11:11",
-    "datoteka": "prodavaonica_Celine 91 Vrbovec_P02_042_08.11.2026_11-11.csv"
+    "broj_pohrane": 43,
+    "datum": "2026-11-09",
+    "zadnja_objava": "09.11.2026. 12:23",
+    "datoteka": "prodavaonica_Celine 91 Vrbovec_P02_043_09.11.2026_12-23.csv"
   }
 }
