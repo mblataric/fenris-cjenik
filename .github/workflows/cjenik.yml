@@ -48,7 +48,7 @@ jobs:
             echo "Nema promjena."
           else
             git commit -m "Cjenik $(TZ=Europe/Zagreb date '+%d.%m.%Y. %H:%M')"
-            git push
+            git pull --rebase -q && git push
           fi
 
       - uses: actions/configure-pages@v5
