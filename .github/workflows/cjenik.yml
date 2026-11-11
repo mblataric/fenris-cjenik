@@ -2,11 +2,11 @@ name: Dnevni cjenik
 
 on:
   schedule:
-    # UTC; tri pokusaja prije 8:00 po hrvatskom vremenu (ljeti 05:10/06:00/06:45, zimi sat ranije).
-    # Skripta objavljuje samo jednom dnevno, ostala pokretanja samo provjere.
-    - cron: "10 3 * * *"
-    - cron: "0 4 * * *"
-    - cron: "45 4 * * *"
+    # UTC. GitHub zakazana pokretanja znaju kasniti satima, zato se pokušava svaki sat od ponoći
+    # po hrvatskom vremenu (22:00 UTC ljeti / 23:00 UTC zimi) do 7:00. Prvo pokretanje nakon ponoći
+    # objavljuje dnevni cjenik, ostala samo provjere (skripta objavljuje jednom dnevno).
+    - cron: "7 22,23 * * *"
+    - cron: "7 0-5 * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -58,6 +58,15 @@ jobs:
           path: public
 
       - id: deploy
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      # GitHub povremeno ne nađe tek učitani artefakt; drugi pokušaj nakon pauze.
+      - if: steps.deploy.outcome == 'failure'
+        run: sleep 60
+
+      - id: deploy2
+        if: steps.deploy.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
       - name: Provjera sidrenih cijena
