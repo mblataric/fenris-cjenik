@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik trgovac="Fenris Hunting, obrt za usluge i trgovinu, vl. Ivan Bastalec, Zagrebačka ulica 55, 10340 Vrbovec, OIB 31461715885" oblik_objekta="webshop" adresa="Zagrebacka ulica 55 Vrbovec" oznaka_objekta="W01" vrijeme_objave="2026-10-07T12:10:26+02:00" valuta="EUR">
+<cjenik trgovac="Fenris Hunting, obrt za usluge i trgovinu, vl. Ivan Bastalec, Zagrebačka ulica 55, 10340 Vrbovec, OIB 31461715885" oblik_objekta="webshop" adresa="Zagrebacka ulica 55 Vrbovec" oznaka_objekta="W01" vrijeme_objave="2026-11-12T03:52:08+01:00" valuta="EUR">
   <proizvod>
     <naziv>RIX GLINT G2 termovizijska kamera</naziv>
     <sifra>63403786666314</sifra>
@@ -15,6 +15,22 @@
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
     <cijena_gotovina_virman>990,00</cijena_gotovina_virman>
+  </proizvod>
+  <proizvod>
+    <naziv>RIX LPR L6R termovizijska kamera</naziv>
+    <sifra>64205768720714</sifra>
+    <marka>RIX</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>4100,00</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <najniza_cijena_30_dana></najniza_cijena_30_dana>
+    <sidrena_cijena>4100,00</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
+    <barkod></barkod>
+    <raspolozivost>dostupno</raspolozivost>
+    <cijena_gotovina_virman>3690,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>RIX Nano N6 Clip-on</naziv>
