@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cjenik trgovac="Fenris Hunting, obrt za usluge i trgovinu, vl. Ivan Bastalec, Zagrebačka ulica 55, 10340 Vrbovec, OIB 31461715885" oblik_objekta="webshop" adresa="Zagrebacka ulica 55 Vrbovec" oznaka_objekta="W01" vrijeme_objave="2026-10-17T09:43:14+02:00" valuta="EUR">
+<cjenik trgovac="Fenris Hunting, obrt za usluge i trgovinu, vl. Ivan Bastalec, Zagrebačka ulica 55, 10340 Vrbovec, OIB 31461715885" oblik_objekta="webshop" adresa="Zagrebacka ulica 55 Vrbovec" oznaka_objekta="W01" vrijeme_objave="2026-11-22T03:06:03+01:00" valuta="EUR">
   <proizvod>
     <naziv>RIX GLINT G2 termovizijska kamera</naziv>
     <sifra>63403786666314</sifra>
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>1100,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1222,22</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -14,7 +14,23 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>990,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>1100,00</cijena_gotovina_virman>
+  </proizvod>
+  <proizvod>
+    <naziv>RIX LPR L6R termovizijska kamera</naziv>
+    <sifra>64205768720714</sifra>
+    <marka>RIX</marka>
+    <jedinica_mjere>kom</jedinica_mjere>
+    <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
+    <maloprodajna_cijena>4555,56</maloprodajna_cijena>
+    <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
+    <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
+    <najniza_cijena_30_dana></najniza_cijena_30_dana>
+    <sidrena_cijena>4100,00</sidrena_cijena>
+    <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
+    <barkod></barkod>
+    <raspolozivost>dostupno</raspolozivost>
+    <cijena_gotovina_virman>4100,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>RIX Nano N6 Clip-on</naziv>
@@ -22,7 +38,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>2850,00</maloprodajna_cijena>
+    <maloprodajna_cijena>3166,67</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -30,7 +46,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>2565,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>2850,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>RIX Optics Leap L12R termovizijska kamera</naziv>
@@ -38,7 +54,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>6100,00</maloprodajna_cijena>
+    <maloprodajna_cijena>6777,78</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -46,7 +62,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>5490,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>6100,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>RIX Optics STORM S2 termovizijska kamera</naziv>
@@ -54,15 +70,15 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>950,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1055,56</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
     <sidrena_cijena>950,00</sidrena_cijena>
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
-    <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>855,00</cijena_gotovina_virman>
+    <raspolozivost>nedostupno</raspolozivost>
+    <cijena_gotovina_virman>950,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>RIX Optics TOURER T20 digitalna kamera</naziv>
@@ -70,15 +86,15 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>750,00</maloprodajna_cijena>
+    <maloprodajna_cijena>833,33</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
     <sidrena_cijena>750,00</sidrena_cijena>
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
-    <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>675,00</cijena_gotovina_virman>
+    <raspolozivost>nedostupno</raspolozivost>
+    <cijena_gotovina_virman>750,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>RIX TOURER T50 4K digitalna kamera</naziv>
@@ -86,7 +102,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>950,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1055,56</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -94,7 +110,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>855,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>950,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix DBH 12</naziv>
@@ -102,7 +118,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>8400,00</maloprodajna_cijena>
+    <maloprodajna_cijena>9333,33</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -110,7 +126,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>7560,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>8400,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix GLINT G3 termovizijska kamera</naziv>
@@ -118,7 +134,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>1600,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1777,78</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -126,7 +142,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>1440,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>1600,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Leap L3 V2 termovizijska kamera</naziv>
@@ -134,7 +150,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>2110,00</maloprodajna_cijena>
+    <maloprodajna_cijena>2344,44</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -142,7 +158,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>1899,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>2110,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Leap L3R termovizijska kamera</naziv>
@@ -150,7 +166,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>2440,00</maloprodajna_cijena>
+    <maloprodajna_cijena>2711,11</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -158,7 +174,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>2196,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>2440,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Leap L6R termovizijska kamera</naziv>
@@ -166,7 +182,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>3440,00</maloprodajna_cijena>
+    <maloprodajna_cijena>3822,22</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -174,7 +190,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>3096,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>3440,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Pocket K2 termovizijska kamera</naziv>
@@ -182,7 +198,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>555,00</maloprodajna_cijena>
+    <maloprodajna_cijena>616,67</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -190,7 +206,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>499,50</cijena_gotovina_virman>
+    <cijena_gotovina_virman>555,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Pocket K3 termovizijska kamera</naziv>
@@ -198,7 +214,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>910,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1011,11</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -206,7 +222,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>nedostupno</raspolozivost>
-    <cijena_gotovina_virman>819,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>910,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Stride ST3 Lite</naziv>
@@ -214,15 +230,15 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>990,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1100,00</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
     <sidrena_cijena>990,00</sidrena_cijena>
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
-    <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>891,00</cijena_gotovina_virman>
+    <raspolozivost>nedostupno</raspolozivost>
+    <cijena_gotovina_virman>990,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Stride ST6 Lite</naziv>
@@ -230,7 +246,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>1650,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1833,33</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -238,7 +254,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>1485,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>1650,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Titan T3 termovizijska kamera</naziv>
@@ -246,7 +262,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>1555,00</maloprodajna_cijena>
+    <maloprodajna_cijena>1727,78</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -254,7 +270,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>1399,50</cijena_gotovina_virman>
+    <cijena_gotovina_virman>1555,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Rix Titan T6 termovizijska kamera</naziv>
@@ -262,7 +278,7 @@
     <marka>RIX</marka>
     <jedinica_mjere>kom</jedinica_mjere>
     <cijena_za_jedinicu_mjere></cijena_za_jedinicu_mjere>
-    <maloprodajna_cijena>2110,00</maloprodajna_cijena>
+    <maloprodajna_cijena>2344,44</maloprodajna_cijena>
     <posebni_oblik_prodaje>NE</posebni_oblik_prodaje>
     <naziv_posebnog_oblika_prodaje></naziv_posebnog_oblika_prodaje>
     <najniza_cijena_30_dana></najniza_cijena_30_dana>
@@ -270,7 +286,7 @@
     <datum_sidrene_cijene>10.09.2026.</datum_sidrene_cijene>
     <barkod></barkod>
     <raspolozivost>dostupno</raspolozivost>
-    <cijena_gotovina_virman>1899,00</cijena_gotovina_virman>
+    <cijena_gotovina_virman>2110,00</cijena_gotovina_virman>
   </proizvod>
   <proizvod>
     <naziv>Senopex DOT A3</naziv>
